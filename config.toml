@@ -1,0 +1,53 @@
+baseURL = 'https://kylekun.com'
+languageCode = 'en-us'
+title = "Caio Pedroso's Blog"
+theme = 'yinyang'
+DefaultContentLanguage = "en"
+enableRobotsTXT = true
+canonifyURLs = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    guessSyntax = true
+    noClasses = true
+    style = "bw"
+    tabWidth = 2
+
+[languages]
+  [languages.en]
+    contentDir = "content/en"
+    languageName = "English | 🇺🇸"
+    weight = 1
+ # [languages.pt]
+  #  contentDir = "content/pt"
+  #  languageName = "Português | 🇧🇷"
+  #  weight = 2
+
+[params]
+headTitle = "< Caio Pedroso >"
+description = "Exploring ideas in this shared illusion we call \"reality\"."
+favicon = "/logo.png"
+mainSections = ["posts"]
+# staticPrefix = ""
+postHeaderContent = ""
+postFooterContent = '<br/><br/><p>Subscribe to my <a target="_blank" href="https://kylekun.ck.page/profile"><u><b>Newsletter</b></u></a>.</p><br/>'
+disqus = "kylekundev"
+# extraHead = 'analytics url'
+
+lazyImage = true
+
+[[params.socials]]
+name = "Work"
+link = "/work"
+[[params.socials]]
+name = "Social"
+link = "/social"
+[[params.socials]]
+name = "About"
+link = "/about"
+[[params.socials]]
+name = "RSS"
+link = "/index.xml"
