@@ -29,9 +29,6 @@ You can (but shouldn't 😉) expect blog posts about these topics:
 - Classical music
 - Composing
 - Japanese music
-    - From idols groups to melodic death metal, in special:
-        - <a href="https://www.youtube.com/@UnluckyMorpheusOfficial" target="_blank">Unlucky Morpheus</a>
-        - <a href="https://www.youtube.com/channel/UCHds7LkFqXgM7s2usAyzi7g" target="_blank">DIALOGUE+</a>
 
 #### Philosophy
 - Existentialism
