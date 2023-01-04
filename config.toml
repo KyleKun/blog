@@ -33,7 +33,7 @@ favicon = "/logo.png"
 mainSections = ["posts"]
 # staticPrefix = ""
 postHeaderContent = ""
-postFooterContent = '<br/><br/><p>Subscribe to my <a target="_blank" href="https://kylekun.ck.page/profile"><u><b>Newsletter</b></u></a>.</p><br/>'
+postFooterContent = '<p>Subscribe to my Newsletter:</p>'
 disqus = "kylekundev"
 # extraHead = 'analytics url'
 
