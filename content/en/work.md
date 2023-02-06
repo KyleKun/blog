@@ -12,6 +12,7 @@ You can check my <a href="https://linkedin.com/in/caio-pedroso" target="_blank">
 
 # Apps
 <a href="https://github.com/KyleKun/one_second_diary" target="_blank">One Second Diary</a> - open source minimalist video diary app for Android.
+
 <a href="https://github.com/KyleKun/time_progress" target="_blank">Time Progress</a> - open source customizable year/month/day progress visualizer for the web.
 
 # Games
