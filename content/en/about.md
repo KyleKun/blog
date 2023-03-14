@@ -5,7 +5,6 @@ draft: false
 ---
 
 Hi there! I'm Caio.
-
 I make apps and games (see my [work](/work)).
 
 I made this blog to write about my projects and other several things that I'm interested in.
@@ -16,7 +15,7 @@ Thanks for stopping by! 😊
 
 My main interests currently are in the areas of <u>technology</u>, <u>music</u> and <u>philosophy</u>. 
 
-You can (but shouldn't 😉) expect blog posts about these topics:
+Apart from my personal projects, you can (but shouldn't 😉) expect blog posts about these topics:
 
 #### Tech
 - Flutter
@@ -25,18 +24,12 @@ You can (but shouldn't 😉) expect blog posts about these topics:
 - AI
 
 #### Music
-- Piano
+- Piano playing
 - Classical music
 - Composing
-- Japanese music
 
 #### Philosophy
-- Existentialism
-- Absurdism
-- Nihilism
-- Dualism
-- Aesthetics
-
+- More topics than I should list on here, so you will have to wait and see 😅
 
 
 
