@@ -1,5 +1,5 @@
 ---
-title: "One Second Diary v1.5 was released"
+title: "One Second Diary v1.5 Released"
 date: 2023-01-28
 draft: false
 categories: ['News']
