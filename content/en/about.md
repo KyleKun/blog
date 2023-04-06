@@ -7,7 +7,7 @@ draft: false
 Hi there! I'm Caio.
 I make apps and games (see my [work](/work)).
 
-I made this blog to write about my projects and other several things that I'm interested in.
+I made this website to write about my projects and other several things that I'm interested in. You can find the source code for this blog on [GitHub](https://github.com/KyleKun/blog). There's no analytics, no ads, no tracking - feel free to browse it all you want without worrying about your privacy.
 
 Thanks for stopping by! 😊
 
