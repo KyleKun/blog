@@ -14,7 +14,7 @@ categories: ['Philosophy']
 
 ## Introduction
 
-Free will is a concept that has been debated for centuries. Philosophers, scientists, and theologians have all tried to answer the question whether humans do have free will or not. While some argue that we have the power to make choices independent of prior causes, while others contend that everything that happens in the universe, including human actions and decisions, is determined by prior causes, making free will an illusion.
+Free will is a concept that has been debated for centuries. Philosophers, scientists, and theologians have all tried to answer the question whether humans do have free will or not. While some argue that we have the power to make choices independent of prior causes, others contend that everything that happens in the universe, including human actions and decisions, is determined by prior causes, making free will an illusion.
 
 In this post, I will explain why I agree to the latter *- free will is an illusion -* and what are the implications of this being true. Also, I will describe what I think is an appropriate reaction/response to this idea (paradoxically, even when we have no choice). 
 
