@@ -1,6 +1,6 @@
 ---
 title: "On Free Will"
-date: 2023-04-05
+date: 2023-04-06
 draft: false
 categories: ['Philosophy']
 ---
@@ -54,6 +54,8 @@ We can conclude, at least, that it's not possible to defend free will with langu
 
 Determinism is the philosophical theory that all events, including human action, are ultimately determined by causes external to the will. In other words, everything that happens in the universe, including human actions and decisions, is determined by prior causes and nothing could have happened differently. If you take the proposition P -> Q (P then Q) as true, then you are already a determinist. For example, P = nothing, Q = the universe. This is absolute, nothing existed, until it did. Since Q is unavoidable, so is what comes next. And next. And next. All the way to the present, every single event in the universe (cause and effect). There's no conditionals in the middle of the chain, leaving no room for free will. Counter arguments to determinism are on the weak side: the best one can propose is some quantum weirdness in the brain that makes things actually random, but still, if it's random, where's your control?
 
+Moreover, if you believe in an omnipotent God, one that has the ability to know the future, you are already a determinist. If you try to argue that God sees all the possible futures, but the decisions that will be made are up to us and that is what will cause one of those possible futures to become true, you are implying that God doesn't know the actual future. Saying God knows all the possibilities is different from saying God knows the actual future. If God knows the actual future, then it's because it was already determined. If not, then God is not omnipotent.
+
 ## The Illusion of Free Will
 
 Despite the fact that we can't control our wants, we still *feel* like we do have free will. This is the illusion of free will imposed by nature. To our minds, "we can do whatever we want" is more relevant than "exactly choose what we want". The illusion is so strong that it's no surprise people confidently say they are free. Most don't even stop to consider the impact caused by factors such as genetics and environment in our reasoning, let alone the ideas presented in this post. Perhaps that's because the range of options available to us is so large that we can't even suspect that we are not free. It's like we are a fish in the ocean, there's just so much water around us (the collection of possibilities) that we can't even imagine there's a sky above us.
@@ -64,7 +66,7 @@ Now that we know free will is an illusion, what should we do? Should we stop try
 
 In my opinion, the appropriate answer is "nothing". Basically, ignore everything that you just read. Embrace the illusion. Change nothing.
 
-Why? Because in the case everything said here is not true, free will somehow magically exists and scientists or AI discover the secrets behind conciousness and how the brain works, you will not impact yours and others' lives in any way by changing how you live your life now. Of course, it's reasonable to embrace the illusion since we are wired to do so, maintaining a sense of agency is vital for our well-being and the well-being of those around us. 
+Why? Because in the case everything said here is not true, free will somehow magically exists and scientists or AI discover the secrets behind conciousness and how the brain works, you will not impact yours and others' lives in any way by changing how you live your life now. Of course, it's reasonable to embrace the illusion since we are wired to do so (https://www.youtube.com/watch?v=zpU_e3jh_FY), maintaining a sense of agency is vital for our well-being and the well-being of those around us. 
 
 But maybe, maybe, with the evolution of AI and brain-computer interfaces, transhumanism will be a thing in the future and this illusion will be broken. But to be honest, if that ever happens, humanity will probably not even have to think about it.
 
@@ -74,6 +76,8 @@ And remember, you have no choice 😉😉.
 ### References
 [Britannica](https://www.britannica.com/topic/free-will)
 
-[CosmicSkeptic's YouTube Channel](https://www.youtube.com/watch?v=Dqj32jxOC0Y)
+[CosmicSkeptic (YouTube Channel)](https://www.youtube.com/watch?v=Dqj32jxOC0Y)
 
 [The World as Will and Representation - Arthur Schopenhauer](https://en.wikipedia.org/wiki/The_World_as_Will_and_Representation)
+
+[Philosophy Vibe (YouTube Channel)](https://www.youtube.com/watch?v=-UrOPUCBYKw)

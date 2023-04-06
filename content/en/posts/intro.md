@@ -1,6 +1,6 @@
 ---
 title: "Introduction To My Philosophical Posts"
-date: 2023-04-04
+date: 2023-04-05
 draft: false
 categories: ['Philosophy']
 ---
